@@ -3,15 +3,15 @@
 This repository contains information and material for the course "Introduction to Machine Learning". 
 
 # Main topics of the course:
-What is Learning?
+i) What is Learning?
 
-Introduction to Regression.
+ii) Introduction to Regression.
 
-introduction to Classification.
+iii) introduction to Classification.
 
-A biref view of widespread Machine Learning Algorithms.
+iv) A biref view of widespread Machine Learning Algorithms.
 
-An applied Regression approach to Exchange Rate Forecasting.
+v) An applied Regression approach to Exchange Rate Forecasting.
 
 # For material dm in LinkedIn: 
 www.linkedin.com/in/iakovoschristoszarkadis
